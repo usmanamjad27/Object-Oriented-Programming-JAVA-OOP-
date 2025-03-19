@@ -1,3 +1,10 @@
+//Activity 1:
+//Composition is about expressing relationships between objects. Think about the example of a
+//manager. A manager has the properties e.g Title and club dues. A manager has an employment
+//record. And a manager has an educational record. The phrase "has a" implies a relationship where
+//the manager owns, or at minimum, uses, another object. It is this "has a" relationship which is the
+//basis for composition. This example can be programmed as follows:
+
 public class Activity_01_Main {
     public static void main(String[] args) {
 
