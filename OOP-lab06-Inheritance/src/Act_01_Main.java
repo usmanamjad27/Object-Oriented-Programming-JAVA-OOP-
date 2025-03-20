@@ -4,7 +4,11 @@
 
 public class Act_01_Main {
     public static void main(String[] args) {
-       Act_01_Student s1 = new Act_01_Student("Usman Amjad","45",78,"Sp24bcs067",456);
+//       Act_01_Student s1 = new Act_01_Student("Usman Amjad","45",78,"Sp24bcs067",456);
+//        also used these type of methods
+        Act_01_Student s1 = new Act_01_Student();
+        s1.setName("Ali");
+        s1.getName();
        s1.display();
     }
 }
