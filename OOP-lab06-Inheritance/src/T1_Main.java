@@ -9,7 +9,7 @@
 //A staff member has a title.
 //Create display method in each class
 
-public class Task_01_Main {
+public class T1_Main {
     public static void main(String[] args) {
         T1_Employee empUsman = new T1_Employee("Usman Amjad","B 652 /- Pakpattan","+92 326 1131932 ","usmanamjad270704@gmail.com","Comsats Institue of Information Technology","12 Feb 2024",127500);
         T1_student stUsman = new T1_student("Usman Amjad","B 652 /- Pakpattan","+92 326 1131932","meusmanamjad@gmail.com","Active");
